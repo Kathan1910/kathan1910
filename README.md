@@ -45,7 +45,7 @@ I am a dedicated professional with a passion for data science, AI, machine learn
 Let's connect and explore opportunities to collaborate on exciting projects at the intersection of data science, AI, machine learning, natural language processing, deep learning, and computer vision. Feel free to reach out to me through the contact information provided below.🌐
 
 <div align="center">
-  <a href="https://instagram.com/kathan1910" target="_blank">
+  <a href="https://instagram.com/kathan_1910" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
   </a>
   <a href="https://github.com/kathan1910" target="_blank">
