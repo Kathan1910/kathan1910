@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/kathan19" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
-  <a href="https://medium.com/kathanpatel1910" target="_blank" style="margin-right: 5px;">
+  <a href="https://medium.com/@kathanpatel1910" target="_blank" style="margin-right: 5px;">
     <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" height="30" />
   </a>
   <a href="https://www.kaggle.com/kathan1910" target="_blank" style="margin-right: 5px;">
